@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tutemark Platform
 
-Things you may want to cover:
+It is a learning platform for students to study according to specific course syllabus, any student want to learn.
 
-* Ruby version
+The online Tutemark Learning is about "How computer technology and modern internet can enhance the experience of elearning, its scope and solutions in product/service based forms."
 
-* System dependencies
+Technology Stack
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Web framework: RoR
+Database: Postgresql
+Front End : HTML5, CSS3, bootstrap 5
+back End: Ruby, PostgreSQL
